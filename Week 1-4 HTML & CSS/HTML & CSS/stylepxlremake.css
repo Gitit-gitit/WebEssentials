@@ -1,0 +1,33 @@
+body {
+    background-color:#d9ddd7;
+    font-family: Verdana, sans-serif;
+    margin: 10%;
+    border: 1px solid green;
+    padding: 4px;
+}
+
+h1 {
+    color: #024b30;
+}
+
+p {
+    background-color: #6a7689;
+    color: #ffff;
+    padding: 20px;
+}
+
+.highlight {
+    color: yellow;
+    border: 2px solid yellow;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #6df469;
+}

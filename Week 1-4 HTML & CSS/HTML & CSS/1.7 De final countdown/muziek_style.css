@@ -1,0 +1,65 @@
+body {
+    font-family: "Calibri Light", monospace;
+    background-color: black;
+    color: yellow;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: green;
+}
+
+button {
+    background-color: green;
+    border: 2px solid white;
+    margin-left: 0.3%;
+    margin-right: 0.5%;
+    padding-inline: 0.5%;
+    padding: 1%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+article {
+    border: 2px solid green;
+    margin: 0.3%;
+    margin-bottom: 1%;
+    padding: 10px;
+}
+
+main {
+    padding-top: 10px;
+}
+
+#wrappukkelpop {
+    background-color: blanchedalmond;
+    color: green;
+}
+
+#wrappukkelpop a {
+    color: green;
+}
+
+#wraprockwerchter {
+    background-color: cadetblue;
+}
+
+#wraptomorrowland {
+    background-color: coral;
+}
+
+#wrapgraspop {
+    background-color: goldenrod;
+}
+
+#wrapdour {
+    background-color: pink;
+}
+
+ul {
+    list-style-image: url("Assets/icon3.png");
+}
+
